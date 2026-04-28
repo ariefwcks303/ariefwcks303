@@ -13,6 +13,14 @@ A detail-oriented professional transitioning from a **Mechanical Engineering** b
 
 ---
 
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariefwcks303&show_icons=true&theme=tokyonight&hide_border=true" alt="Arief Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefwcks303&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
@@ -27,32 +35,31 @@ A detail-oriented professional transitioning from a **Mechanical Engineering** b
 
 ### 📂 Featured Projects
 
-#### 🤖 [Advanced Machine Learning Workflow](https://github.com/username/project-link)
+#### 🚀 [MLOps: Credit Scoring Automation Pipeline](https://github.com/ariefwcks303/latihan-mlflow-cicd)
+- **Tech:** Python, MLflow, GitHub Actions, Scikit-Learn, Git LFS.
+- Implementasi **CI/CD Pipeline** otomatis untuk pelatihan model Machine Learning.
+- Melacak setiap eksperimen (metrik & parameter) secara terpusat menggunakan MLflow.
+
+#### 🤖 [Advanced Machine Learning Workflow](https://github.com/ariefwcks303/advanced-ml-workflow)
 - **Tech:** Python, Scikit-Learn, K-Means, Decision Tree.
-- Developed a comprehensive ML pipeline combining clustering and classification.
-- Implemented advanced preprocessing and automated model evaluation using `joblib`.
+- Developed a comprehensive ML pipeline combining clustering and classification with automated evaluation.
 
-#### 💬 [Play Store Sentiment Analysis Engine](https://github.com/username/project-link)
+#### 💬 [Play Store Sentiment Analysis Engine](https://github.com/ariefwcks303/sentiment-analysis-playstore)
 - **Tech:** Python, Selenium, NLP, Scikit-Learn.
-- Extracted 20,000+ user reviews via custom scrapers.
-- Built an NLP model achieving **85%+ accuracy** in sentiment classification.
-
-#### ⚙️ [End-to-End ETL Pipeline](https://github.com/username/project-link)
-- **Tech:** Modular Programming, Unit Testing, Python.
-- Built a scalable automation pipeline ensuring 100% data integrity through rigorous testing.
+- Extracted 20,000+ user reviews and built an NLP model achieving **85%+ accuracy**.
 
 ---
 
-### 📈 Professional Development
-- **Artificial Intelligence & GenAI Engineer Trainee** | Dicoding Academy (Microsoft Elevate & IDCamp)
-- **AWS Cloud Computing (re/Start)** | Orbit Future Academy & Amazon Web Services
-- **Data Analyst & Data Science Bootcamps** | Harisenin.com & DigitalSkola
-- **Machine Learning Specialization** | Pacmann & Dicoding Indonesia
+### 📈 Professional Development & Soft Skills
+- **McKinsey Forward Program** | Professional skills in problem-solving (MECE, SMART), leadership, and adaptability.
+- **Artificial Intelligence & GenAI Engineer Trainee** | Dicoding Academy (Microsoft Elevate).
+- **AWS Cloud Computing (re/Start)** | Orbit Future Academy & Amazon Web Services.
+- **Data Analyst & Data Science Bootcamps** | Harisenin.com & DigitalSkola.
 
 ---
 
 ### 🏆 Certifications
-- ✅ **AWS Certified Cloud Practitioner Essentials**
+- ✅ **AWS Certified Cloud Practitioner**
 - ✅ **AWS re/Start Graduate**
 - ✅ **Machine Learning Specialization (Dicoding)**
 - ✅ **AI Specialist: Prompt Engineering & AI Fundamentals**
@@ -61,9 +68,11 @@ A detail-oriented professional transitioning from a **Mechanical Engineering** b
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/ariefwcks303](https://www.linkedin.com/in/ariefwcks303/)
-- **Medium:** [Medium.com](https://medium.com/@ariefwcks303)
-- **Email:** [ariefwcks303@gmail.com](mailto:ariefwcks303@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/ariefwcks303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariefwcks303" height="30" width="40" /></a>
+<a href="https://medium.com/@ariefwcks303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ariefwcks303" height="30" width="40" /></a>
+<a href="mailto:ariefwcks303@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ariefwcks303" height="30" width="40" /></a>
+</p>
 
 ---
 *“Combining the precision of engineering with the power of Artificial Intelligence.”*
