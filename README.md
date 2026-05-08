@@ -13,10 +13,7 @@ A detail-oriented professional transitioning from a **Mechanical Engineering** b
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariefwcks303&theme=tokyonight" width="100%" />
-</p>
+
 
 ### 📈 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefwcks303&theme=tokyonight" alt="Arief Streak" />
