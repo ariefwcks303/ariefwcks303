@@ -15,10 +15,9 @@ A detail-oriented professional transitioning from a **Mechanical Engineering** b
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariefwcks303&show_icons=true&theme=tokyonight&hide_border=true" alt="Arief Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefwcks303&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariefwcks303&show_icons=true&theme=tokyonight&count_private=true" alt="Arief Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefwcks303&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
